@@ -11,7 +11,7 @@ The blog authors summarized the NeurIPS 2024 paper of [Linear Transformers are V
 - The blog underlined the objectives of the paper clearly, which gives a good starting point on the research question the paper addresses.
 
 ## Weaknesses
-- The blog authors didn't introduce the mathematical setup for studying in-context learning in linear transformer. The experimental setup isn't understandable just by reading the blog alone. A breakdown on the data generation process, why they chose multivariate gaussian distribution to model the dataset, how this objective is ideal was much needed.
+- The [blog](https://github.com/Superb-Man/blog) authors didn't introduce the mathematical setup for studying in-context learning in linear transformer. The experimental setup isn't understandable just by reading the blog alone. A breakdown on the data generation process, why they chose multivariate gaussian distribution to model the dataset, how this objective is ideal was much needed.
 - Given that the audiences are undergraduate students, who have just finished machine learning course recently, a solid introduction of in-context learning could have been added.
 - The authors didn't introduce the learning objectives for fixed noise varience scenarios and mixed noise varience scenarios.
 - The blog didn't explain what each of the theorems and lemmas individually implies.
